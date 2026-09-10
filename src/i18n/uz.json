@@ -1,0 +1,382 @@
+{
+  "site": {
+    "name": "FairGuide",
+    "tagline": "O‘zbekistonni uning odamlari orqali kashf eting.",
+    "logoText": "FairGuide",
+    "logoImage": "",
+    "contactEmail": "hello@fairguide.uz",
+    "phone": "+998 71 200 40 40",
+    "address": "Toshkent, O‘zbekiston",
+    "instagram": "https://instagram.com/fairguide.uz",
+    "telegram": "https://t.me/fairguide_uz",
+    "facebook": "https://facebook.com/fairguide.uz",
+    "youtube": "https://youtube.com/@fairguideuz",
+    "footerDesc": "Xalqaro sayyohlarni ishonchli mahalliy gidslar, tarjimonlar, talabalar va oilalarni bog‘lovchi jamoatchilik asosidagi turizm platformasi.",
+    "ogDescription": "Tekshirilgan mahalliy gid toping, adolatli narxlar haqida bilib oling va O‘zbekistonni uning xalqi orqali his eting."
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "how": "Qanday ishlaydi",
+    "tourists": "Sayyohlar uchun",
+    "guides": "Gidlar uchun",
+    "volunteer": "Ixtiyoriy",
+    "host": "Mezonuq",
+    "about": "Biz haqimizda",
+    "getStarted": "Boshlash",
+    "explore": "O‘zbekistonni kashf eting"
+  },
+  "hero": {
+    "badge": "Jamoatchilik asosidagi sayohat · O‘zbekiston",
+    "heading": "O‘zbekistonni uning odamlari orqali kashf eting.",
+    "sub": "Ishonchli mahalliy gidlarni toping, haqiqiy tajribalarni kashf eting va ishonch bilan sayohat qiling — hammasi bitta joyda.",
+    "ctaPrimary": "O‘zbekistonni kashf eting",
+    "ctaSecondary": "Gid bo‘ling",
+    "trustLine": "Tekshirilgan mahalliy gidlar · Shaffof narxlar · 5 til",
+    "image": "/images/hero.jpg",
+    "imageAlt": "Samarqand tarixiy ko‘chasida mahalliy gid bilan kulib yurayotgan xalqaro sayyoh",
+    "float1Title": "Tekshirilgan mahalliy gid",
+    "float1Text": "Jasur · Samarqand · 4.9 ★",
+    "float2Title": "Adolatli narx tekshiruvi",
+    "float2Text": "Sofin gilyoz · 10,000 so‘m",
+    "float2Badge": "Referens narx"
+  },
+  "trustBand": {
+    "text": "Sayohat — joyni kashf etish haqida, sizga yordam berayotgan odamga ishonch izlaganlik haqida emas.",
+    "valuesLabel": "Biz nimaga asoslanamiz",
+    "v1": "Ishonch",
+    "v2": "Adolat",
+    "v3": "Ulg‘urish"
+  },
+  "fairer": {
+    "eyebrow": "FairGuide bilan tanishing",
+    "heading": "O‘zbekistonni adolatliroq usulda tajriba qilish.",
+    "sub": "FairGuide xalqaro sayyohlarni ishonchli mahalliy odamlar bilan bog‘laydi — til, xizmatlar va narxlar bilan aniqlikda tanishishga yordam beradi.",
+    "pillars": [
+      { "title": "Ishonchli odamlar", "desc": "Profilini, sharhlari va tajribasini oldindan tekshirib olishingiz mumkin bo‘lgan tekshirilgan mahalliy gidlar va tarjimonlar bilan muloqot qiling." },
+      { "title": "Shaffof sayohat", "desc": "FairGuide texnologiyasi mahalliy narxlarni yaxshiroq tushunish va tashqi chalg‘ituvlarni kamaytirishga yordam beradi." },
+      { "title": "Haqiqiy ulg‘urish", "desc": "O‘zbekistonni faqat ko‘rinishlar emas — mahalliy odamlar, talabalar va oilalar orqali his eting." }
+    ]
+  },
+  "problem": {
+    "eyebrow": "Biz yechadigan muammo",
+    "heading": "Yangi joyda sayohat qo‘rqinchli emas — qiziqarli bo‘lishi kerak.",
+    "lede": "Yangi mamlakatda kichik ishlar katta ahamiyat kasb etadi. Agar siz o‘zbek yoki rus tilini bilmasangiz, kundalik qarorlar tinch holda boshqalarga bog‘liq bo‘ladi.",
+    "p1": "Bozorda sotib olish yoki choyxona buyurtmasi paytida tarjimon yoki gid sizning ovozingizga aylanadi. Lekin agar siz mahalliy bozor narxlarini bilmasangiz, sizga aytilgan raqam mahalliy aholi to‘laydigan miqdorga mos kelishini tekshira olmaysiz. Bu ma’lumotlar noqulayligiga olib keladi — va 10,000 so‘mlik mahsulot 20,000 so‘mdeb o‘qilishi uchun ko‘p kerak emas.",
+    "p2": "FairGuide aynan shu bo‘shliqni to‘ldirish uchun mo‘ljallangan: oldindan tekshirib olishingiz mumkin bo‘lgan ishonchli odamlar va yaxshiroq qarorlar qabul qilishga yordam beradigan referens narxlar haqida ma’lumot.",
+    "nuance": "Biz gidlar yoki tadbirkorlar sayyohlarni aldaydi deb aytmayapmiz. Narxlar do‘kon, joy va mavsumga qarab tabiiy ravishda o‘zgaradi. FairGuide ishonchli ma’lumotlar mavjud bo‘lgan joylarda referens ma’lumotlarni taqdim etadi — qarorlar faraz emas, bilim asosida bo‘lsin.",
+    "nuanceLabel": "Adolat haqida",
+    "image": "/images/problem.jpg",
+    "imageAlt": "O‘zbekiston bozorida sayyoh va mahalliy tarjimon qo‘lda ishlangan mahsulot va uning narxini ko‘rib turgan",
+    "exActualLabel": "Haqiqiy / referens narx",
+    "exActual": "10,000 so‘m",
+    "exPresentedLabel": "Sayyohga ko‘rsatilgan narx",
+    "exPresented": "20,000 so‘m",
+    "exDiffLabel": "Farq",
+    "exDiff": "+10,000 so‘m"
+  },
+  "guides": {
+    "eyebrow": "Tekshirilgan mahalliy gidlar va tarjimonlar",
+    "heading": "Ishonchli mahalliy gidingiz bilan tanishing.",
+    "sub": "Gidlar va tarjimonlarni til, joy, tajriba, reyting, mavjudlik va tekshiruv bo‘yicha tanlang — ular bilan uchrashganingizdan oldin.",
+    "cards": [
+      {
+        "name": "Jasur Karimov",
+        "languages": "EN · RU · UZ",
+        "location": "Samarqand",
+        "rating": "4.9",
+        "experience": "8+ yil",
+        "verified": "Tekshirilgan gid",
+        "priceFrom": "kundalik 600,000 so‘mdan",
+        "image": "/images/guide-1.jpg",
+        "imageAlt": "Samarqand mahalliy gidi Jasur Karimovning portreti"
+      },
+      {
+        "name": "Madina Rahimova",
+        "languages": "EN · TR · UZ",
+        "location": "Toshkent",
+        "rating": "5.0",
+        "experience": "5 yil",
+        "verified": "Tekshirilgan tarjimon",
+        "priceFrom": "kundalik 500,000 so‘mdan",
+        "image": "/images/guide-2.jpg",
+        "imageAlt": "Toshkent tarjimoni va shahar gidi Madina Rahimovaning portreti"
+      },
+      {
+        "name": "Bobur Alimov",
+        "languages": "RU · EN · UZ",
+        "location": "Buxoro",
+        "rating": "4.8",
+        "experience": "20+ yil",
+        "verified": "Tekshirilgan gid",
+        "priceFrom": "kundalik 700,000 so‘mdan",
+        "image": "/images/guide-3.jpg",
+        "imageAlt": "Buxoro senior gidi Bobur Alimovning portreti"
+      }
+    ],
+    "cta": "Gid toping"
+  },
+  "scanner": {
+    "eyebrow": "FairGuide Narx Skaneri",
+    "heading": "To‘lashdan oldin narxni bilib oling.",
+    "sub": "FairGuide sayyohlarni mavjud mahsulot ma’lumotlari va referens narxlar bilan solishtirishga yordam beradi, O‘zbekistonda xarid qilishda ko‘proq ishonch beradi.",
+    "bullets": [
+      "Shtrix-kod, mahsulot yoki narx yorliqini skan qiling",
+      "Mavjud referens narxlar bilan solishtiring",
+      "Bir necha soniyada aniq shaffoflik ko‘rsatkichini oling"
+    ],
+    "phone": {
+      "title": "Narx skaneri",
+      "tab1": "Shtrix-kod",
+      "tab2": "Mahsulot",
+      "tab3": "Narx yorlig‘i",
+      "tab4": "Foto",
+      "productName": "Mahalliy sofina gilyoz",
+      "refLabel": "Referens narx",
+      "refPrice": "10,000 so‘m",
+      "repLabel": "Ko‘rsatilgan narx",
+      "repPrice": "20,000 so‘m",
+      "diffLabel": "Farq",
+      "diffValue": "+10,000 so‘m",
+      "indicator": "Mavjud referens narxdan yuqori",
+      "note": "To‘lashdan oldin solishtiring"
+    },
+    "disclaimer": "Referens narxlar do‘kon, joy va vaqtga qarab farq qilishi mumkin. FairGuide faqat narx farqi asosida sotuvchi firibgarligini aniqlamaydi.",
+    "cta": "Narx Skanerini o‘rganing"
+  },
+  "volunteer": {
+    "badge": "Rejalashtirilgan imkoniyat",
+    "heading": "Til bilimingizni amaliy tajribaga aylantiring.",
+    "sub": "FairGuide o‘zbek talabalari va yoshlari xalqaro sayyohlarga ixtiyoriy tarjimon va mahalliy yordamchi bo‘lib yordam berishni xohlaydigan ixtiyoriy dasturini rejalashtirmoqda.",
+    "points": [
+      "Sayyohlar ixtiyoriy yordamchi yechib olish uchun to‘lamaydi",
+      "Tajribadan so‘ng mehmonlar xohlasa ixtiyoriy uchun sovg‘a qoldirishi mumkin",
+      "Ixtiyoriy yordamchilar yakunlangan sessiyalarini tekshirilgan yozuvini yaratadi"
+    ],
+    "steps": [
+      "Ixtiyoriy yordamchi",
+      "Xalqaro sayyohlarga yordam berish",
+      "Xalqaro tajriba olish",
+      "Portfolio yaratish",
+      "Sertifikatlar olish"
+    ],
+    "milestoneTitle": "10+ tekshirilgan ixtiyoriy tarjima sessiyasi",
+    "milestoneDesc": "FairGuide tomonidan O‘zbekiston Turizm vazirligi bilan rejalashtirilgan hamkorlik orqali tavsiya nomasi yo‘lida ixtiyoriy yordamchi uchun huquq beradi.",
+    "ministryLabel": "Rejalashtirilgan Vazirlik Hamkorligi",
+    "ministryNote": "Bu hamkorlik va uning tekshiruv jarayoni hozirda rivojlantirilmoqda va faollashtirilmagan.",
+    "cta": "Kelajakdagi Ixtiyoriy Dasturga qo‘shiling",
+    "image": "/images/volunteer.jpg",
+    "imageAlt": "Samarqand minorasining tosh devorlari oldida yosh o‘zbek talabasi chet el sayyohiga telefonini ko‘rsatyapti"
+  },
+  "host": {
+    "badge": "Rejalashtirilgan imkoniyat",
+    "heading": "Mahalliy odamlarda qoling. Haqiqiy O‘zbekistonni his eting.",
+    "sub": "FairGuide o‘zbek fuqarolari va oilalari xalqaro sayyohlarni qabul qilish imkonini beruvchi mezonuq dasturini rejalashtirmoqda — o‘z shartlari, o‘z narxlari va o‘z uyida.",
+    "steps": [
+      { "num": "1", "title": "Sayyoh sayohat so‘rovi yaratadi", "desc": "Sayyoh FairGuidega qayerga bormoqchiliklarini, qachon kelishini, necha kun qolishini va nechta odam bilan yo‘lga chiqishini aytadi." },
+      { "num": "2", "title": "Mahalliy mezonlar so‘rovlarni ko‘rib chiqadi", "desc": "Mos o‘zbek mezonlar va oilalar o‘z shahri va bo‘sh vaqti mos keladigan sayyoh so‘rovlari bilan tanishishlari mumkin." },
+      { "num": "3", "title": "Mezon qabul qiladi", "desc": "Agar mezon so‘rovni yoqtirsa va sanalar mos kelsa, u sayyohni to‘g‘ridan-to‘g‘ri FairGuide orqali qabul qilishi mumkin." },
+      { "num": "4", "title": "Mezon narxni belgilaydi", "desc": "Har bir mezon oila o‘z yashash narxini o‘zi belgilaydi — shaffof, adolatli va nazorati ostida." }
+    ],
+    "example": {
+      "title": "Namuna sayohat so‘rovi",
+      "rows": [
+        { "label": "Manzil", "value": "Samarqand" },
+        { "label": "Davomiylik", "value": "4 kecha" },
+        { "label": "Mehmonlar", "value": "2 mehmon" },
+        { "label": "Mezon", "value": "O‘zbek oilasi" },
+        { "label": "Narx", "value": "Mezon tomonidan belgilanadi", "highlight": true }
+      ]
+    },
+    "cta": "Mezon bo‘ling"
+  },
+  "platform": {
+    "heading": "Bitta platforma. O‘zbekistonni ko‘p usulda tajriba qilish.",
+    "sub": "FairGuide sayyohlar va ularni kutib oluvchi odamlar uchun to‘liq ekosistema sifatida qurilmoqda.",
+    "more": "Batafsil",
+    "cards": [
+      { "tag": "Mavjud", "title": "Gid toping", "desc": "Ishonchli mahalliy gidlar va tarjimonlar.", "link": "/for-tourists" },
+      { "tag": "Mavjud", "title": "Skan va tekshirish", "desc": "Narx skaneri yordamida mavjud referens narxlarni yaxshiroq tushuning.", "link": "#scanner" },
+      { "tag": "Tez orada", "title": "Ixtiyoriy", "desc": "O‘zbek talabalari uchun xalqaro tajriba olishning kelajakdagi imkoniyati.", "link": "/volunteer" },
+      { "tag": "Tez orada", "title": "Mahalliy odamlarda qolish", "desc": "O‘zbekistonni o‘zbek oilalari orqali tajriba qilishning kelajakdagi imkoniyati.", "link": "/host" }
+    ]
+  },
+  "community": {
+    "eyebrow": "O‘zbekiston",
+    "heading": "Faqat sayohat joyi emas. Jamoat.",
+    "sub": "Ko‘chalar, bozorlar, choy, suhbat — bu faqat uning odamlari orqali tanishingiz mumkin bo‘lgan O‘zbekiston.",
+    "message": "Biz bir mamlakatni eng yaxshi unda yashovchi odamlar orqali tushunish mumkinligiga ishonamiz.",
+    "places": [
+      { "name": "Toshkent", "localName": "Toshkent", "caption": "Metro mozaikalar, yangi non va poytaxtning jonli yangi kafei.", "image": "" },
+      { "name": "Samarqand", "localName": "Samarqand", "caption": "Ipak yo‘lining shahmatligi va har bir Registon choyxonasidagi suhbatlar.", "image": "" },
+      { "name": "Buxoro", "localName": "Buxoro", "caption": "Ming yillik hovlilar — bu yerda bobolar hali ham choyni to‘g‘ri tayyorlaydi.", "image": "" },
+      { "name": "Xiva", "localName": "Xiva", "caption": "Ichan Kalaning tinch ko‘chalari, ustalar hunari va sekinertong sabohlari.", "image": "" },
+      { "name": "Shahrisabz", "localName": "Shahrisabz", "caption": "Amir Temur vatani — dehqon yo‘llari va asrlar oldinib qolgan ertaklar.", "image": "" },
+      { "name": "Farg‘ona vodiysi", "localName": "Farg‘ona vodiysi", "caption": "Bog‘lar, bozorlar va mamlakatdagi eng mehmondo‘st dastxonalar.", "image": "" }
+    ]
+  },
+  "how": {
+    "eyebrow": "Loyihada oson",
+    "heading": "FairGuide qanday ishlaydi",
+    "sub": "Siz va o‘z uyingizdek his etiladigan sayohat orasida to‘rt qadam.",
+    "steps": [
+      { "num": "01", "title": "Sayohatingizni yarating", "desc": "Bizga qayerga va qachon borayotganingizni ayting." },
+      { "num": "02", "title": "O‘z odamlaringizni toping", "desc": "Ishonchli gidlar, tarjimonlar, ixtiyoriy yordamchilar va kelajakdagi mahalliy mezonlarni kashf eting." },
+      { "num": "03", "title": "Ulg‘uring", "desc": "To‘g‘ridan-to‘g‘ri muloqot qiling va tajribangizni tashkil eting." },
+      { "num": "04", "title": "Ishonch bilan kashf eting", "desc": "O‘zbekistonni ko‘proq shaffoflik va ishonch bilan his eting." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Bilish foydali",
+    "heading": "Ko‘p so‘raladigan savollar",
+    "sub": "Sayyohlar boshlashdan oldin odatda nimalarni so‘rashadi.",
+    "items": [
+      { "q": "FairGuide tur operatorimi?", "a": "Yo‘q. FairGuide — platforma. U sizni tekshirilgan mahalliy gidlar, tarjimonlar va kelajakda talaba ixtiyoriy yordamchilar va mezon oilalar bilan bog‘laydi. Kim bilan ishlashni va nima yechib olishni siz tanlaysiz." },
+      { "q": "Narx skaneri qanday ishlaydi?", "a": "Siz shtrix-kod, mahsulot yoki narx yorliqini skan qilasiz. FairGuide natijani ishonchli manbalardan olingan mavjud referens narxlar bilan solishtiradi va aniq shaffoflik ko‘rsatkichini ko‘rsatadi. Bu sotuvchi haqida hukm emas, referens ma’lumot." },
+      { "q": "Gidlar qanday tekshiriladi?", "a": "Gidlar va tarjimonlar profil tekshiruvidan, shaxsni aniqlash va sharhlar tizimidan o‘tadi. Haqiqiy sayohatlardan reytinglar va fikrlar ekosistemani vaqt ichida halol saqlaydi." },
+      { "q": "Ixtiyoriy dastur ishlayaptimi?", "a": "Ixtiyoriy dastur rejalashtirilgan imkoniyat. Biz talaba hamkorligini, sertifikatlar va tekshiruv jarayonini tayyorlamoqdamiz — qo‘shilish formasi erta qiziqlarni yig‘adi." },
+      { "q": "Qaysi tillar qo‘llab-quvvatlanadi?", "a": "Platforma inglizcha, o‘zbekcha, ruscha, turkcha va xitoycha mavjud — va ko‘proq tillar oson qo‘shib borilishi uchun qurilgan." }
+    ]
+  },
+  "guideCta": {
+    "heading": "Siz gid yoki tarjimonsizmi?",
+    "sub": "FairGuide professional mahalliy gidlar va tarjimonlarni xalqaro sayyohlarga yetkazishga yordam beradi — profil, sharhlar, tekshiruv va shaffof ma’lumot orqali ishonch quradi.",
+    "bullets": [
+      "Tillaringiz, shaharlaringiz va narxlaringiz bilan professional profil",
+      "Tekshirilgan belgi va haqiqiy sayyohlardan shaffof sharhlar",
+      "Mehmonlar bilan to‘g‘ridan-to‘g‘ri muloqot va adolatli, tushunarli daromad"
+    ],
+    "cta": "Gid bo‘ling"
+  },
+  "students": {
+    "heading": "Harakatli o‘zbek talabalari uchun.",
+    "sub": "Kelajakdagi ixtiyoriy dastur talabalarga til bilimidan xalqaro tajribagacha haqiqiy yo‘l beradi.",
+    "list": [
+      "Xalqaro sayyohlarni tanish",
+      "Chet tillarini amaliy qilib ko‘rish",
+      "Muloqot ko‘nikmalarini rivojlantirish",
+      "Xalqaro tajriba olish",
+      "Tekshirilgan ixtiyoriy portfolio yaratish",
+      "Sertifikatlar olish",
+      "10+ tekshirilgan sessiyadan so‘ng tavsiya imkoniyatlariga ega bo‘lish"
+    ],
+    "cta": "FairGuide bilan ixtiyoriy ishlash",
+    "certTitle": "Ixtiyoriylik Sertifikati",
+    "certName": "Tekshirilgan tarjima sessiyalari",
+    "certText": "FairGuide tomonidan beriladi · Talaba ixtiyoriy dasturi"
+  },
+  "trust": {
+    "eyebrow": "Ishonch va xavfsizlik",
+    "heading": "Ishonch atrofida qurilgan.",
+    "sub": "FairGuide ham sayyohlar, ham mahalliy foydalanuvchilar uchun ishonchli muhit yaratish uchun mo‘ljallangan — hammasi uchun aniq qoidalar.",
+    "items": [
+      { "title": "Tekshirilgan profillar", "desc": "Platformaga qo‘shilishdan oldin shaxs va hujjatlar tekshiruvi." },
+      { "title": "Shaffof sharhlar", "desc": "Haqiqiy sayohatlardan real fikrlar, hammasi uchun ko‘rinadi." },
+      { "title": "Xavfsiz muloqot", "desc": "Uchrashguncha suhbatlarni FairGuide ichida saqlang." },
+      { "title": "Xabar berish tizimi", "desc": "Muammolarni tezda belgilang — har bir xabar jamoat jamoasi tomonidan ko‘rib chiqiladi." },
+      { "title": "Jamoat standartlari", "desc": "Gidlar, mezonlar, ixtiyoriy yordamchilar va sayyohlar uchun aniq, e’lon qilingan qoidalar." },
+      { "title": "Kelajakdagi shaxsni tekshirish", "desc": "Ekosistema o‘sishi bilan chuqurligi yuqori tekshiruv qatlamlari yo‘l xaritasida." }
+    ],
+    "note": "Biz 100% xavfsiz yoki firibgarlikdan himoyalanganmiz degan da’vo qilmaymiz. Biz shaffoflik, javobgarlik va tez javob uchun loyiha qilamiz."
+  },
+  "vision": {
+    "eyebrow": "Bizning ko‘rinishimiz",
+    "heading": "Bizning ko‘rinishimiz",
+    "quote": "Biz xalqaro sayyohlarni mamlakatni eng yaxshi biluvchi odamlar bilan bog‘lab, O‘zbekistonni dunyodagi eng mehmondo‘st va ishonchli sayohat joylaridan biriga aylantirmoqchimiz.",
+    "p1": "FairGuide xalqaro turizm va O‘zbekistonning mahalliy jamoasi orasida ko‘prik qurmoqda.",
+    "p2": "Bizning uzoq muddatli ko‘rinishimiz — turizm faqat sayyohlar va biznes uchun emas, balki talabalar, oilalar, gidlar va mahalliy jamoalar uchun ham qiymat yaratadigan platforma.",
+    "image": "/images/about.jpg",
+    "imageAlt": "Xalqaro sayyohlar va mahalliy o‘zbeklar hovlida choy ichib suhbatlashayotgan"
+  },
+  "finalCta": {
+    "heading": "Sizning O‘zbekiston hikoyangiz shu yerda boshlanadi.",
+    "sub": "Mamlakatni unda yashovchi odamlar orqali kashf eting.",
+    "primary": "O‘zbekistonni kashf eting",
+    "secondary": "FairGuide ga qo‘shiling",
+    "image": "/images/cta-bg.jpg",
+    "imageAlt": "Samarqandning firuza minorasi ustidan quyosh botishi"
+  },
+  "footer": {
+    "platformTitle": "Platforma",
+    "forYouTitle": "Siz uchun",
+    "contactTitle": "Aloqa",
+    "scanLink": "Narx skaneri",
+    "touristsLink": "Sayyohlar uchun",
+    "guidesLink": "Gidlar uchun",
+    "volunteerLink": "Ixtiyoriy",
+    "hostLink": "Mezonuq",
+    "aboutLink": "Biz haqimizda",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari",
+    "rights": "© 2026 FairGuide. Barcha huquqlar himoyalangan.",
+    "madeIn": "O‘zbekistonda ehtiyotkorlik bilan yaratildi"
+  },
+  "form": {
+    "joinTitle": "FairGuide ga qo‘shiling",
+    "joinSub": "FairGuide qanday qismiga kirishni xohlashingizni ayting — sayyoh, gid, ixtiyoriy yordamchi yoki mezon sifatida.",
+    "guideTitle": "Gid yoki tarjimon sifatida ariza",
+    "guideSub": "O‘zingiz haqingizda bir oz ayting — profil ko‘rib chiqamiz.",
+    "volunteerTitle": "Kelajakdagi ixtiyoriy dasturga qo‘shiling",
+    "volunteerSub": "Ixtiyoriy dastur tez orada ochiladi. Ma’lumotlaringizni qoldiring — birinchi bo‘lib xabardor qilamiz.",
+    "hostTitle": "Mezon bo‘ling",
+    "hostSub": "Mezon dasturi kelmoqda. Dastlabki mezon sifatida o‘rningizni band qiling.",
+    "name": "To‘liq ismingiz",
+    "email": "Elektron pochta",
+    "phone": "Telefon",
+    "city": "Shahar",
+    "message": "Boshqa narsa?",
+    "namePh": "Ismingiz",
+    "emailPh": "siz@example.com",
+    "phonePh": "+998 90 000 00 00",
+    "cityPh": "Toshkent, Samarqand…",
+    "messagePh": "Ixtiyoriy",
+    "submit": "So‘rov yuborish",
+    "sending": "Yuborilmoqda…",
+    "error": "Iltimos, majburiy maydonlarni to‘ldiring.",
+    "successTitle": "Rahmat!",
+    "successText": "So‘rovingiz qabul qilindi. FairGuide jamoasi tez orada siz bilan bog‘lanadi."
+  },
+  "pages": {
+    "howItWorks": {
+      "title": "Qanday ishlaydi",
+      "sub": "Birinchi g‘oyadan so‘zlashib yuringan sayohatingizgacha — butun yo‘l shu yerda.",
+      "intro": "FairGuide kelishdan oldin tanishishingiz mumkin bo‘lgan ishonchli mahalliy do‘st kabi ishlaydi. Har bir qadam noaniqlikni kamaytirish uchun loyihalangan: kim bilan tanishasiz, narsalar qancha turgan, qanday muloqot qilasiz."
+    },
+    "forTourists": {
+      "title": "Sayyohlar uchun",
+      "sub": "O‘zbekistonni ishonchda sayohat qilish uchun kerakli hamma narsa.",
+      "intro": "Til, narxlar va kimga ishonish — barchasini biz o‘ylaymiz, siz yo‘lga diqqat qaratishingiz mumkin."
+    },
+    "forGuides": {
+      "title": "Gidlar uchun",
+      "sub": "Kasbingizni hurmat qiladigan xalqaro sayyohlarga yeting.",
+      "intro": "FairGuide professional gidlar va tarjimonlarga ishonchli, ko‘rinadigan profil beradi — va uni qozonish uchun vositalar."
+    },
+    "volunteer": {
+      "title": "Ixtiyoriy",
+      "sub": "Sayyohlarga yordam bering, xalqaro tajribangizni oshiring.",
+      "intro": "Ixtiyoriy dastur ishlab chiqilmoqda. Birinchi bo‘lib qatnashuvchi talabalardan biri bo‘ling."
+    },
+    "host": {
+      "title": "Mezonuq",
+      "sub": "Xalqaro sayyohlarni o‘z uyingizga boshlang.",
+      "intro": "Mezon dasturi kelmoqda — o‘z shartlaringiz, o‘z narxlaringiz, o‘z hikoyangiz bilan."
+    },
+    "about": {
+      "title": "Biz haqimizda",
+      "sub": "Xalqaro turizm va O‘zbekiston jamoalari orasidagi ko‘prik.",
+      "intro": "FairGuide — Toshkentda tug‘ilgan travel-tech kompaniyasi, O‘zbekistonda turizmning ishonch qatlamini qurmoqda.",
+      "valuesTitle": "Bizning asosiy qiymatlarimiz",
+      "values": ["Adolat", "Ishonch", "Shaffoflik", "Jamoat", "Imkoniyat"]
+    },
+    "privacy": {
+      "title": "Maxfiylik siyosati",
+      "updated": "Oxirgi yangilanish: Yanvar 2026",
+      "body": "FairGuide sizning maxfiyligingizni hurmat qiladi. Biz faqat xizmatni taqdim etish uchun kerakli ma’lumotlarni yig‘amiz: hisob ma’lumotlari, muloqot muhandisi va sayohat ma’lumotlari.\n\nBiz shaxsiy ma’lumotlarni hech qachon sotmaymiz. Referens narxlar ma’lumotlari ishlatilishidan oldin jamlanadi va anonimlashtiriladi. Siz xohlagan vaqtda privacy@fairguide.uz manziliga yozib, ma’lumotlaringizga kirish, tuzatish yoki o‘chirishni so‘rashingiz mumkin.\n\nBu ommaviy saytning oldindan siyosati. To‘liq platforma ishga tushirishidan oldin ma’lumotlarni qayta ishlash to‘liq tavsifi e’lon qilinadi."
+    },
+    "terms": {
+      "title": "Foydalanish shartlari",
+      "updated": "Oxirgi yangilanish: Yanvar 2026",
+      "body": "FairGuide veb-saytidan foydalanishda siz uni qonuniy va halol foydalanishga rozilik bildirasiz.\n\nSaytdagi kontent, jumladan referens narxlar, faqat ma’lumot uchun taqdim etiladi. U hech qanday muamla kafolati emas va hech qanday aniq sotuvchi haqida bayonot emas.\n\n\"Rejalashtirilgan\" yoki \"tez orada\" deb belgilangan imkoniyatlar hali mavjud emas. Biz shartlarni vaqt-vaqti bilan yangilashimiz mumkin; saytning davomiy foydalanish yangilangan shartlarni qabul qilish hisoblanadi.\n\nBu shartlar haqida savollar bo‘lsa, legal@fairguide.uz manziliga yozing."
+    }
+  }
+}

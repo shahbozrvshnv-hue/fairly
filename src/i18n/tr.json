@@ -1,0 +1,382 @@
+{
+  "site": {
+    "name": "FairGuide",
+    "tagline": "Özbekistan'ı insanların üzerinden keşfedin.",
+    "logoText": "FairGuide",
+    "logoImage": "",
+    "contactEmail": "hello@fairguide.uz",
+    "phone": "+998 71 200 40 40",
+    "address": "Taşkend, Özbekistan",
+    "instagram": "https://instagram.com/fairguide.uz",
+    "telegram": "https://t.me/fairguide_uz",
+    "facebook": "https://facebook.com/fairguide.uz",
+    "youtube": "https://youtube.com/@fairguideuz",
+    "footerDesc": "Uluslararası gezginleri Özbekistan genelinde güvenilir rehberler, çevirmenler, öğrenciler ve ailelerle bağlayan topluluk destekli bir turizm platformu.",
+    "ogDescription": "Doğrulanmış yerel rehberleri bulun, adil referans fiyatları öğrenin ve Özbekistan'ı orada yaşayan insanlar üzerinden keşfedin."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "how": "Nasıl Çalışır",
+    "tourists": "Gezginler İçin",
+    "guides": "Rehberler İçin",
+    "volunteer": "Gönüllülük",
+    "host": "Misafirperverlik",
+    "about": "Hakkımızda",
+    "getStarted": "Başla",
+    "explore": "Özbekistan'ı Keşfet"
+  },
+  "hero": {
+    "badge": "Topluluk destekli seyahat · Özbekistan",
+    "heading": "Özbekistan'ı insanların üzerinden keşfedin.",
+    "sub": "Güvenilir yerel rehberleri bulun, otantik deneyimleri keşfedin ve güvenle seyahat edin — hepsi tek yerde.",
+    "ctaPrimary": "Özbekistan'ı Keşfet",
+    "ctaSecondary": "Rehber Ol",
+    "trustLine": "Doğrulanmış yerel rehberler · Şeffaf fiyatlar · 5 dil",
+    "image": "/images/hero.jpg",
+    "imageAlt": "Semerkant'ta tarihi bir sokakta yerel bir rehberle gülerek yürüyen uluslararası bir gezgin",
+    "float1Title": "Doğrulanmış yerel rehber",
+    "float1Text": "Jasur · Semerkant · 4.9 ★",
+    "float2Title": "Adil fiyat kontrolü",
+    "float2Text": "Seramik vazo · 10.000 som",
+    "float2Badge": "Referans fiyat"
+  },
+  "trustBand": {
+    "text": "Seyahat, bir yeri keşfetmekle ilgili olmalı — size yardım eden kişiye güvenip güvenemeyeceğinizle değil.",
+    "valuesLabel": "Üzerinde durduğumuz değerler",
+    "v1": "Güven",
+    "v2": "Adalet",
+    "v3": "Bağ"
+  },
+  "fairer": {
+    "eyebrow": "Tanışın: FairGuide",
+    "heading": "Özbekistan'ı daha adil bir şekilde deneyimleme yolu.",
+    "sub": "FairGuide uluslararası gezginleri güvenilir yerel insanlarla buluşturur — dil, hizmet ve fiyatlar konusunda netlik içinde ilerlemenize yardımcı olur.",
+    "pillars": [
+      { "title": "Güvenilir İnsanlar", "desc": "Profillerini, yorumlarını ve deneyimlerini rezervasyondan önce inceleyebileceğiniz doğrulanmış yerel rehberler ve çevirmenlerle bağ kurun." },
+      { "title": "Şeffaf Seyahat", "desc": "FairGuide teknolojisi yerel fiyatları daha iyi anlamanıza ve gereksiz karışıklıkları önlemenize yardımcı olur." },
+      { "title": "Gerçek Bağlar", "desc": "Özbekistan'ı yalnızca görülecek yerler değil; yerel insanlar, öğrenciler ve aileler üzerinden deneyimleyin." }
+    ]
+  },
+  "problem": {
+    "eyebrow": "Çözdüğümüz sorun",
+    "heading": "Yeni bir yerde seyahat heyecan verici olmalı — tedirgin edici değil.",
+    "lede": "Yeni bir ülkede küçük şeyler büyür. Özbekçe veya Rusça bilmiyorsanız, günlük kararlar sessizce başka insanların eline kalır.",
+    "p1": "Çarşıda alışveriş yaparken veya çayhanede sipariş verirken bir çevirmen veya rehber sizin sesiniz olur. Ama yerel piyasa fiyatlarını bilmiyorsanız, size söylenen rakamın yerel halkın ödediği rakamla uyup uymadığını kontrol edemezsiniz. Bu bir bilgi dengesizliği yaratır — ve 10.000 somluk bir ürünün 20.000 somluk gibi sunulması için çok fazla gerekmez.",
+    "p2": "FairGuide tam bu boşluğu kapatmak için tasarlandı: önceden inceleyebileceğiniz doğrulanmış insanlar ve daha bilinçli kararlar almanıza yardımcı olan referans fiyat bilgisi.",
+    "nuance": "Rehberlerin veya işletmelerin gezginleri aldattığını iddia etmiyoruz. Fiyatlar mağazaya, konuma ve mevsime göre doğal olarak değişir. FairGuide güvenilir verilerin olduğu yerlerde referans bilgi sunar — kararlar varsayım değil, bilgi üzerine olsun diye.",
+    "nuanceLabel": "Adalet hakkında",
+    "image": "/images/problem.jpg",
+    "imageAlt": "Özbekistan'da bir çarşı tezgahında el yapımı bir ürünü ve fiyatını inceleyen bir gezgin ve yerel çevirmen",
+    "exActualLabel": "Gerçek / referans fiyat",
+    "exActual": "10.000 som",
+    "exPresentedLabel": "Gezгене sunulan fiyat",
+    "exPresented": "20.000 som",
+    "exDiffLabel": "Fark",
+    "exDiff": "+10.000 som"
+  },
+  "guides": {
+    "eyebrow": "Doğrulanmış yerel rehberler ve çevirmenler",
+    "heading": "Güvenilir yerel rehberinizle tanışın.",
+    "sub": "Rehberleri ve çevirmenleri dil, şehir, deneyim, puan, müsaitlik ve doğrulama bazında inceleyin — tanışmadan önce.",
+    "cards": [
+      {
+        "name": "Jasur Karimov",
+        "languages": "EN · RU · UZ",
+        "location": "Semerkant",
+        "rating": "4.9",
+        "experience": "8+ yıl",
+        "verified": "Doğrulanmış rehber",
+        "priceFrom": "günlük 600.000 somdan",
+        "image": "/images/guide-1.jpg",
+        "imageAlt": "Semerkant'ın yerel rehberi Jasur Karimov'un portresi"
+      },
+      {
+        "name": "Madina Rahimova",
+        "languages": "EN · TR · UZ",
+        "location": "Taşkent",
+        "rating": "5.0",
+        "experience": "5 yıl",
+        "verified": "Doğrulanmış çevirmen",
+        "priceFrom": "günlük 500.000 somdan",
+        "image": "/images/guide-2.jpg",
+        "imageAlt": "Taşkent'in çevirmen ve şehir rehberi Madina Rahimova'nın portresi"
+      },
+      {
+        "name": "Bobur Alimov",
+        "languages": "RU · EN · UZ",
+        "location": "Buhara",
+        "rating": "4.8",
+        "experience": "20+ yıl",
+        "verified": "Doğrulanmış rehber",
+        "priceFrom": "günlük 700.000 somdan",
+        "image": "/images/guide-3.jpg",
+        "imageAlt": "Buhara'nın kıdemli rehberi Bobur Alimov'un portresi"
+      }
+    ],
+    "cta": "Rehber Bul"
+  },
+  "scanner": {
+    "eyebrow": "FairGuide Fiyat Taranı",
+    "heading": "Ödemeden önce fiyatı bilin.",
+    "sub": "FairGuide, gezginlerin ürün bilgilerini ve referans fiyatları karşılaştırmasına yardımcı olur; Özbekistan'da alışverişte daha fazla özgüven sağlar.",
+    "bullets": [
+      "Barkod, ürün veya fiyat etiketini tarayın",
+      "Mevcut referans fiyatlarla karşılaştırın",
+      "Saniyeler içinde net bir şeffaflık göstergesi alın"
+    ],
+    "phone": {
+      "title": "Fiyat Taranı",
+      "tab1": "Barkod",
+      "tab2": "Ürün",
+      "tab3": "Fiyat etiketi",
+      "tab4": "Foto",
+      "productName": "Yerel seramik vazo",
+      "refLabel": "Referans fiyat",
+      "refPrice": "10.000 som",
+      "repLabel": "Sunulan fiyat",
+      "repPrice": "20.000 som",
+      "diffLabel": "Fark",
+      "diffValue": "+10.000 som",
+      "indicator": "Mevcut referans fiyatın üzerinde",
+      "note": "Ödemeden önce karşılaştırın"
+    },
+    "disclaimer": "Referans fiyatlar mağazaya, konuma ve zamana göre değişebilir. FairGuide yalnızca fiyat farkından yola çıkarak bir satıcının dolandırıcı olduğuna hükmetmez.",
+    "cta": "Fiyat Taranı Hakkında Öğren"
+  },
+  "volunteer": {
+    "badge": "Planlanan özellik",
+    "heading": "Dil becerinizi gerçek dünya deneyimine dönüştürün.",
+    "sub": "FairGuide, Özbek öğrencilerin ve gençlerin uluslararası gezginlere gönüllü çevirmen ve yerel yardımcı olarak yardım etmesini sağlayacak bir gönüllülük programı planlıyor.",
+    "points": [
+      "Gezginler gönüllü için ödeme yapmaz",
+      "Deneyim sonrasında misafirler isterse isteğe bağlı bahşiş bırakabilir",
+      "Gönüllüler tamamladıkları oturumlara doğrulanmış bir kayıt oluşturur"
+    ],
+    "steps": [
+      "Gönüllü ol",
+      "Gezginlere yardım et",
+      "Uluslararası deneyim kazan",
+      "Portföyünü oluştur",
+      "Sertifikalar al"
+    ],
+    "milestoneTitle": "10+ doğrulanmış gönüllü çeviri oturumu",
+    "milestoneDesc": "FairGuide'un Özbekistan Turizm Bakanlığı ile planladığı iş birliği yoluyla tavsiye mektubu sürecine gönüllüyü uygun kılabilir.",
+    "ministryLabel": "Planlanan Bakanlık İş Birliği",
+    "ministryNote": "Bu iş birliği ve doğrulama süreci geliştirme aşamasındadır, henüz aktif değildir.",
+    "cta": "Geleceğin Gönüllülük Programına Katıl",
+    "image": "/images/volunteer.jpg",
+    "imageAlt": "Semerkant'ta çinili bir medrese önünde yabancı bir gezginine telefonunu gösteren genç Özbek gönüllü öğrenci"
+  },
+  "host": {
+    "badge": "Planlanan özellik",
+    "heading": "Yerel ailelerin yanında kalın. Gerçek Özbekistan'ı deneyimleyin.",
+    "sub": "FairGuide, Özbek bireylerin ve ailelerin uluslararası gezginleri kendi koşullarında, kendi fiyatlarıyla ve kendi evlerinde ağırlamasına olanak tanıyan bir ev sahipliği programı planlıyor.",
+    "steps": [
+      { "num": "1", "title": "Gezgin bir seyahat talebi oluşturur", "desc": "Gezgin, FairGuide'a nereye gideceğini, ne zaman geleceğini, kaç gün kalacağını ve kaç kişilik olduklarını bildirir." },
+      { "num": "2", "title": "Yerel ev sahipleri talepleri incelemeler", "desc": "Uygun Özbek ev sahipleri ve aileler, şehirlerine ve müsaitliklerine uyan gezgin taleplerini görebilir." },
+      { "num": "3", "title": "Ev sahibi kabul eder", "desc": "Ev sahibi talebi beğenirse ve tarihler uygunsa, gezgini doğrudan FairGuide üzerinden kabul edebilir." },
+      { "num": "4", "title": "Ev sahibi fiyatı belirler", "desc": "Her ağırlayan aile konaklama fiyatını kendi belirler — şeffaf, adil ve kendi kontrolünde." }
+    ],
+    "example": {
+      "title": "Örnek seyahat talebi",
+      "rows": [
+        { "label": "Yer", "value": "Semerkant" },
+        { "label": "Süre", "value": "4 gece" },
+        { "label": "Misafir", "value": "2 misafir" },
+        { "label": "Ev sahibi", "value": "Özbek ailesi" },
+        { "label": "Fiyat", "value": "Ev sahibi belirler", "highlight": true }
+      ]
+    },
+    "cta": "Ev Sahibi Ol"
+  },
+  "platform": {
+    "heading": "Tek platform. Özbekistan'ı deneyimlemenin birçok yolu.",
+    "sub": "FairGuide hem gezginler hem de onları ağırlayan insanlar için eksiksiz bir ekosistem olarak inşa ediliyor.",
+    "more": "Keşfet",
+    "cards": [
+      { "tag": "Mevcut", "title": "Rehber Bul", "desc": "Güvenilir yerel rehberler ve çevirmenler.", "link": "/for-tourists" },
+      { "tag": "Mevcut", "title": "Tara ve Kontrol Et", "desc": "Fiyat taranı ile mevcut referans fiyatları daha iyi anlayın.", "link": "#scanner" },
+      { "tag": "Yakında", "title": "Gönüllülük", "desc": "Özbek öğrencilerin uluslararası deneyim kazanması için gelecekteki fırsat.", "link": "/volunteer" },
+      { "tag": "Yakında", "title": "Yerel Ailelerin Yanında Kal", "desc": "Özbek aileleri üzerinden Özbekistan'ı deneyimleme fırsatı.", "link": "/host" }
+    ]
+  },
+  "community": {
+    "eyebrow": "Özbekistan",
+    "heading": "Sadece bir destinasyon değil. Bir topluluk.",
+    "sub": "Sokaklar, çarşılar, çay, sohbet — Özbekistan'ı ancak insanların üzerinden tanıyabilirsiniz.",
+    "message": "Bir ülkeyi en iyi, onu evi olarak bilen insanlar üzerinden anlayabileceğine inanıyoruz.",
+    "places": [
+      { "name": "Taşkent", "localName": "Toshkent", "caption": "Metro mozaikleri, taze ekmek ve başkentin canlı yeni kafeleri.", "image": "" },
+      { "name": "Semerkant", "localName": "Samarqand", "caption": "İpek Yolu'nun görkemi ve Registan'ın her çayhanesindeki sohbetler.", "image": "" },
+      { "name": "Buhara", "localName": "Buxoro", "caption": "Bin yıllık avlular — büyükanneler hâlâ çayı doğru demliyor.", "image": "" },
+      { "name": "Hiva", "localName": "Xiva", "caption": "İçan Kala'nın sakin sokakları, usta zanaatlar ve aceleye getirilmemiş sabahlar.", "image": "" },
+      { "name": "Şehrîsâb", "localName": "Shahrisabz", "caption": "Timur'un memleketi — çiftlik yolları ve yüzyıllar ötesinden gelen hikâyeler.", "image": "" },
+      { "name": "Ferğana Vadisi", "localName": "Fargʻona vodiysi", "caption": "Bahçeler, çarşılar ve ülkenin en misafirperver sofraları.", "image": "" }
+    ]
+  },
+  "how": {
+    "eyebrow": "Tasarımda basit",
+    "heading": "FairGuide nasıl çalışır",
+    "sub": "Siz ile evinizde gibi hissettiğiniz bir seyahat arasında dört adım.",
+    "steps": [
+      { "num": "01", "title": "Seyahatinizi oluşturun", "desc": "Nereye ve ne zaman gideceğinizi bize söyleyin." },
+      { "num": "02", "title": "İnsanlarınızı bulun", "desc": "Güvenilir rehberleri, çevirmenleri, gönüllüleri ve geleceğin yerel ev sahiplerini keşfedin." },
+      { "num": "03", "title": "Bağ kurun", "desc": "Doğrudan iletişim kurun ve deneyiminizi organize edin." },
+      { "num": "04", "title": "Güvenle keşfedin", "desc": "Özbekistan'ı daha fazla şeffaflık ve güvenle deneyimleyin." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Bilmek faydalı",
+    "heading": "Sıkça sorulan sorular",
+    "sub": "Gezginler başlamadan önce genellikle neleri soruyor?",
+    "items": [
+      { "q": "FairGuide bir tur şirketimi?", "a": "Hayır. FairGuide bir platformdur. Sizi doğrulanmış yerel rehberler, çevirmenler ve gelecekte öğrenci gönüllüler ile ev sahibi ailelerle buluşturur. Kiminle çalışacağınızı ve neyi rezerve edeceğinizi siz seçersiniz." },
+      { "q": "Fiyat taranı nasıl çalışır?", "a": "Bir barkod, ürün veya fiyat etiketi tararsınız. FairGuide sonucu güvenilir kaynaklardan gelen mevcut referans fiyatlarla karşılaştırır ve net bir şeffaflık göstergesi sunar. Bu, herhangi bir satıcı hakkında hüküm değil, referans bilgidir." },
+      { "q": "Rehberler nasıl doğrulanıyor?", "a": "Rehberler ve çevirmenler profil doğrulamasından, kimlik kontrolünden ve yorum sisteminden geçer. Gerçek seyahatlerden gelen puanlar ve geri bildirimler ekosistemi zaman içinde dürüst tutar." },
+      { "q": "Gönüllülük programı aktif mi?", "a": "Gönüllülük programı planlanan bir özelliktir. Öğrenci iş birliğini, sertifikaları ve doğrulama sürecini hazırlıyoruz — kayıt formu erken ilgileri topluyor." },
+      { "q": "Hangi diller destekleniyor?", "a": "Platform İngilizce, Özbekçe, Rusça, Türkçe ve Çince olarak mevcut — ve yeni dillerin kolayca eklenmesi için tasarlandı." }
+    ]
+  },
+  "guideCta": {
+    "heading": "Siz bir rehber veya çevirmen misiniz?",
+    "sub": "FairGuide, profesyonel yerel rehberlere ve çevirmenlere uluslararası gezginlere ulaşmalarında yardımcı olur — güveni profiller, yorumlar, doğrulama ve şeffaf bilgiler üzerinden kurar.",
+    "bullets": [
+      "Dillerinizi, şehirlerinizi ve ücretlerinizi içeren profesyonel profil",
+      "Doğrulama rozeti ve gerçek gezginlerden şeffaf yorumlar",
+      "Misafirlerle doğrudan iletişim ve adil, öngörülebilir gelir"
+    ],
+    "cta": "Rehber Ol"
+  },
+  "students": {
+    "heading": "Hırslı Özbek öğrenciler için.",
+    "sub": "Geleceğin gönüllülük programı, öğrencilere dil becerisinden uluslararası deneyime gerçek bir yol sunuyor.",
+    "list": [
+      "Uluslararası gezginlerle tanışın",
+      "Yabancı dilleri pratik edin",
+      "İletişim becerilerinizi geliştirin",
+      "Uluslararası deneyim kazanın",
+      "Doğrulanmış bir gönüllülük portföyü oluşturun",
+      "Sertifikalar alın",
+      "10+ doğrulanmış oturumdan sonra tavsiye fırsatlarına uygun olabilme"
+    ],
+    "cta": "FairGuide ile Gönüllü Ol",
+    "certTitle": "Gönüllülük Sertifikası",
+    "certName": "Doğrulanmış çeviri oturumları",
+    "certText": "FairGuide tarafından verilir · Öğrenci gönüllülük programı"
+  },
+  "trust": {
+    "eyebrow": "Güven ve güvenlik",
+    "heading": "Güven üzerine inşa edildi.",
+    "sub": "FairGuide, hem gezginler hem de yerel kullanıcılar için herkese açık net kurallarla güvenilir bir ortam oluşturmak üzere tasarlandı.",
+    "items": [
+      { "title": "Doğrulanmış profiller", "desc": "Platforma katılmadan önce kimlik ve belge kontrolleri." },
+      { "title": "Şeffaf yorumlar", "desc": "Gerçek seyahatlerden gelen gerçek geri bildirimler — herkes tarafından görülebilir." },
+      { "title": "Güvenli iletişim", "desc": "Yüz yüze görüşmeye hazır olana kadar sohbetleri FairGuide içinde tutun." },
+      { "title": "Bildirim sistemi", "desc": "Sorunları hızla bildirin — her bildirim topluluk ekibi tarafından incelenir." },
+      { "title": "Topluluk standartları", "desc": "Rehberler, ev sahipleri, gönüllüler ve gezginler için net, yayımlanmış kurallar." },
+      { "title": "Gelecekteki kimlik doğrulama", "desc": "Ekosistem büyüdükçe daha derin doğrulama katmanları yol haritasında." }
+    ],
+    "note": "%100 güvenli veya dolandırıcılığa karşı korunaklı olduğumuzu iddia etmiyoruz. Şeffaflık, hesap verebilirlik ve hızlı müdahale üzerine tasarlıyoruz."
+  },
+  "vision": {
+    "eyebrow": "Vizyonumuz",
+    "heading": "Vizyonumuz",
+    "quote": "Uluslararası gezginleri ülkeyi en iyi tanıyan insanlarla bağlayarak Özbekistan'ı dünyanın en misafirperver ve güvenilir destinasyonlarından biri yapmayı istiyoruz.",
+    "p1": "FairGuide, uluslararası turizm ile Özbekistan'ın yerel topluluğu arasında bir köprü kuruyor.",
+    "p2": "Uzun vadeli vizyonumuz, turizmin yalnızca gezginlere ve işletmelere değil; öğrencilere, ailelere, rehberlere ve yerel topluluklara da değer yarattığı bir platform.",
+    "image": "/images/about.jpg",
+    "imageAlt": "Bir avluda çay içen uluslararası gezginler ve yerel Özbeklerden oluşan karışık grup"
+  },
+  "finalCta": {
+    "heading": "Özbekistan hikâyeniz burada başlıyor.",
+    "sub": "Ülkeyi, onu evi bilen insanlar üzerinden keşfedin.",
+    "primary": "Özbekistan'ı Keşfet",
+    "secondary": "FairGuide'a Katıl",
+    "image": "/images/cta-bg.jpg",
+    "imageAlt": "Semerkant'ın turkuaz çinili minareleri üzerinde gün batımı"
+  },
+  "footer": {
+    "platformTitle": "Platform",
+    "forYouTitle": "Sizin İçin",
+    "contactTitle": "İletişim",
+    "scanLink": "Fiyat Taranı",
+    "touristsLink": "Gezginler İçin",
+    "guidesLink": "Rehberler İçin",
+    "volunteerLink": "Gönüllülük",
+    "hostLink": "Misafirperverlik",
+    "aboutLink": "Hakkımızda",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "rights": "© 2026 FairGuide. Tüm hakları saklıdır.",
+    "madeIn": "Özbekistan'da özenle yapıldı"
+  },
+  "form": {
+    "joinTitle": "FairGuide'a Katıl",
+    "joinSub": "FairGuide'un parçası olmak istediğiniz şekli söyleyin — gezgin, rehber, gönüllü veya ev sahibi olarak.",
+    "guideTitle": "Rehber veya çevirmen olarak başvuru",
+    "guideSub": "Kendinizden kısaca bahsedin — profilinizi inceleyelim.",
+    "volunteerTitle": "Geleceğin gönüllülük programına katıl",
+    "volunteerSub": "Gönüllülük programı yakında açılıyor. Bilgilerinizi bırakın — ilk haberi biz veririz.",
+    "hostTitle": "Ev sahibi olun",
+    "hostSub": "Ev sahipliği programı geliyor. İlk ev sahiplerinden biri olarak yerinizi ayırtın.",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "city": "Şehir",
+    "message": "Başka bir şey?",
+    "namePh": "Adınız",
+    "emailPh": "siz@example.com",
+    "phonePh": "+998 90 000 00 00",
+    "cityPh": "Taşkent, Semerkant…",
+    "messagePh": "İsteğe bağlı",
+    "submit": "Talebi gönder",
+    "sending": "Gönderiliyor…",
+    "error": "Lütfen zorunlu alanları doldurun.",
+    "successTitle": "Teşekkürler!",
+    "successText": "Talebinizi aldık. FairGuide ekibi yakında sizinle iletişime geçecek."
+  },
+  "pages": {
+    "howItWorks": {
+      "title": "Nasıl Çalışır",
+      "sub": "İlk fikirden başkalarına anlatacağınız seyahate kadar — tüm yol burada.",
+      "intro": "FairGuide, varıştan önce tanışabileceğiniz güvenilir bir yerel dost gibi çalışır. Her adım belirsizliği azaltmak üzere tasarlandı: kiminle tanışacağınız, şeylerin ne kadara mal olduğu ve nasıl iletişim kuracağınız."
+    },
+    "forTourists": {
+      "title": "Gezginler İçin",
+      "sub": "Özbekistan'da güvenle seyahat etmek için ihtiyacınız olan her şey.",
+      "intro": "Dil, fiyatlar ve kime güvenmek — bunların hepsini biz düşünüyoruz, siz yolculuğa odaklanın."
+    },
+    "forGuides": {
+      "title": "Rehberler İçin",
+      "sub": "Mesleğinize saygı duyan uluslararası gezginlere ulaşın.",
+      "intro": "FairGuide, profesyonel rehberlere ve çevirmenlere güvenilir, görünür bir profil — ve onu hak etme araçlarını sunar."
+    },
+    "volunteer": {
+      "title": "Gönüllülük",
+      "sub": "Gezginlere yardım edin, uluslararası deneyiminizi geliştirin.",
+      "intro": "Gönüllülük programı geliştirme aşamasında. İlk öğrencilerden biri olun."
+    },
+    "host": {
+      "title": "Misafirperverlik",
+      "sub": "Uluslararası gezginleri evinizde ağırlayın.",
+      "intro": "Ev sahipliği programı geliyor — kendi koşullarınızla, kendi fiyatınızla, kendi hikâyenizle."
+    },
+    "about": {
+      "title": "Hakkımızda",
+      "sub": "Uluslararası turizm ile Özbekistan toplulukları arasındaki bir köprü.",
+      "intro": "FairGuide, Özbekistan'da turizmin güven katmanını kuran Taşkent doğumlu bir travel-tech şirketidir.",
+      "valuesTitle": "Temel değerlerimiz",
+      "values": ["Adalet", "Güven", "Şeffaflık", "Topluluk", "Fırsat"]
+    },
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "updated": "Son güncelleme: Ocak 2026",
+      "body": "FairGuide gizliliğinize saygı duyar. Yalnızca hizmeti sunmak için gerekli bilgileri toplarız: hesap bilgileri, iletişim içeriği ve seyahat bilgileri.\n\nKişisel verileri asla satmayız. Referans fiyat verileri kullanılmadan önce toplanır ve anonimleştirilir. Verilerinize erişim, düzeltme veya silme talebinde bulunmak için istediğiniz zaman privacy@fairguide.uz adresine yazabilirsiniz.\n\nBu, herkese açık web sitesi için ön bir politikadır. Tam platform lansmanından önce veri işlemenin detaylı açıklamaları yayımlanacaktır."
+    },
+    "terms": {
+      "title": "Kullanım Koşulları",
+      "updated": "Son güncelleme: Ocak 2026",
+      "body": "FairGuide web sitesini kullanarak, onu yasal ve iyi niyetli kullanmayı kabul edersiniz.\n\nSitedeki içerik, referans fiyatlar dahil, yalnızca bilgilendirme amaçlıdır; herhangi bir işlem için garanti değildir ve belirli bir satıcı hakkında beyan değildir.\n\n\"Planlanıyor\" veya \"yakında\" olarak işaretlenmiş özellikler henüz kullanılabilir değildir. Koşulları zaman zaman güncelleyebiliriz; sitenin kullanılmaya devam edilmesi güncellenmiş koşulların kabulü anlamına gelir.\n\nKoşullarla ilgili sorularınız için legal@fairguide.uz adresine yazın."
+    }
+  }
+}

@@ -1,0 +1,216 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Sora", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-cream-50: #f5f3ee;
+  --color-cream-100: #efece4;
+  --color-cream-200: #e5e1d5;
+  --color-cream-300: #d8d2c2;
+  --color-cream-400: #c4bca6;
+
+  --color-ink-900: #182a32;
+  --color-ink-800: #24383f;
+  --color-ink-700: #3a4e56;
+  --color-ink-600: #4d636c;
+  --color-ink-500: #647a82;
+  --color-ink-400: #82959c;
+  --color-ink-300: #a9b7bc;
+  --color-ink-200: #ccd6d9;
+
+  --color-teal-50: #ecf7f4;
+  --color-teal-100: #dbf0ea;
+  --color-teal-200: #b9e2d7;
+  --color-teal-300: #8ccfbe;
+  --color-teal-400: #3faf97;
+  --color-teal-500: #17947f;
+  --color-teal-600: #0f7e6e;
+  --color-teal-700: #0b6a5d;
+  --color-teal-800: #0a5349;
+
+  --color-amber-50: #fdf6e8;
+  --color-amber-100: #fbeeda;
+  --color-amber-200: #f6dcae;
+  --color-amber-300: #f0bd6e;
+  --color-amber-400: #edab47;
+  --color-amber-500: #e9a23b;
+  --color-amber-600: #d98a1f;
+  --color-amber-700: #b06e14;
+
+  --color-night-950: #0d1b1d;
+  --color-night-900: #112426;
+  --color-night-800: #173033;
+  --color-night-700: #204044;
+  --color-night-600: #2c5257;
+
+  --shadow-soft-sm: 5px 5px 12px rgba(163, 169, 157, 0.3), -5px -5px 12px rgba(255, 255, 255, 0.95);
+  --shadow-soft: 10px 10px 24px rgba(163, 169, 157, 0.33), -10px -10px 24px rgba(255, 255, 255, 0.95);
+  --shadow-soft-lg: 18px 18px 42px rgba(160, 166, 152, 0.36), -16px -16px 36px rgba(255, 255, 255, 0.93);
+  --shadow-soft-inset-sm: inset 3px 3px 7px rgba(163, 169, 157, 0.27), inset -3px -3px 7px rgba(255, 255, 255, 0.95);
+  --shadow-soft-inset: inset 6px 6px 13px rgba(163, 169, 157, 0.28), inset -6px -6px 13px rgba(255, 255, 255, 0.95);
+  --shadow-dark: 12px 12px 30px rgba(0, 0, 0, 0.55), -8px -8px 22px rgba(64, 110, 105, 0.22);
+  --shadow-dark-inset: inset 5px 5px 12px rgba(0, 0, 0, 0.55), inset -4px -4px 10px rgba(70, 120, 115, 0.28);
+  --shadow-glow-teal: 0 14px 34px rgba(15, 126, 110, 0.32);
+  --shadow-glow-amber: 0 14px 34px rgba(233, 162, 59, 0.35);
+  --shadow-lift: 0 18px 44px rgba(35, 58, 64, 0.16);
+}
+
+@keyframes fg-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes fg-float-2 {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(9px); }
+}
+@keyframes fg-kenburns {
+  from { transform: scale(1.02) translateY(0); }
+  to { transform: scale(1.1) translateY(-1.5%); }
+}
+@keyframes fg-scan {
+  0% { top: 6%; opacity: 0.2; }
+  12% { opacity: 1; }
+  50% { top: 88%; opacity: 1; }
+  88% { opacity: 1; }
+  100% { top: 6%; opacity: 0.2; }
+}
+@keyframes fg-fade-up {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: none; }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background-color: var(--color-cream-50);
+    color: var(--color-ink-900);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection {
+    background: var(--color-teal-200);
+    color: var(--color-ink-900);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-teal-500);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-8;
+  }
+  .section-pad {
+    @apply py-20 md:py-28;
+  }
+  .eyebrow {
+    @apply inline-flex items-center gap-2 rounded-full bg-cream-100 px-4 py-1.5 text-[11px] font-semibold uppercase tracking-[0.14em] text-teal-700 shadow-soft-inset-sm;
+  }
+  .eyebrow-dark {
+    @apply inline-flex items-center gap-2 rounded-full bg-night-800 px-4 py-1.5 text-[11px] font-semibold uppercase tracking-[0.14em] text-teal-300 shadow-dark-inset;
+  }
+  .card-soft {
+    @apply rounded-3xl bg-cream-50 shadow-soft;
+  }
+  .card-soft-inset {
+    @apply rounded-2xl bg-cream-50 shadow-soft-inset;
+  }
+  .card-dark {
+    @apply bg-night-900 shadow-dark;
+  }
+  .card-dark-inset {
+    @apply bg-night-950 shadow-dark-inset;
+  }
+  .btn {
+    @apply inline-flex cursor-pointer select-none items-center justify-center gap-2 whitespace-nowrap rounded-full font-semibold transition-all duration-300;
+  }
+  .btn-md {
+    @apply px-6 py-3 text-sm;
+  }
+  .btn-lg {
+    @apply px-8 py-4 text-[15px];
+  }
+  .btn-primary {
+    @apply bg-teal-600 text-white shadow-glow-teal hover:-translate-y-0.5 hover:bg-teal-500 active:translate-y-0 active:shadow-soft-inset-sm;
+  }
+  .btn-amber {
+    @apply bg-amber-500 text-night-950 shadow-glow-amber hover:-translate-y-0.5 hover:bg-amber-400 active:translate-y-0;
+  }
+  .btn-soft {
+    @apply bg-cream-50 text-ink-800 shadow-soft hover:-translate-y-0.5 active:translate-y-0 active:shadow-soft-inset;
+  }
+  .btn-outline {
+    @apply border border-cream-300 bg-transparent text-ink-800 hover:-translate-y-0.5 hover:border-teal-400 hover:text-teal-700;
+  }
+  .btn-white {
+    @apply border border-white/25 bg-white/10 text-white backdrop-blur hover:-translate-y-0.5 hover:bg-white/20;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-semibold;
+  }
+  .chip-teal {
+    @apply border border-teal-100 bg-teal-50 text-teal-700;
+  }
+  .chip-amber {
+    @apply border border-amber-100 bg-amber-50 text-amber-700;
+  }
+  .input-soft {
+    @apply w-full rounded-xl border border-transparent bg-cream-50 px-4 py-3 text-sm text-ink-900 shadow-soft-inset-sm outline-none transition-shadow placeholder:text-ink-400 focus:shadow-soft-inset;
+  }
+  .reveal {
+    opacity: 0;
+    transform: translateY(26px);
+    transition: opacity 0.8s cubic-bezier(0.22, 0.61, 0.36, 1), transform 0.8s cubic-bezier(0.22, 0.61, 0.36, 1);
+    will-change: opacity, transform;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+  .anim-float {
+    animation: fg-float 7s ease-in-out infinite;
+  }
+  .anim-float-2 {
+    animation: fg-float-2 8s ease-in-out infinite;
+  }
+  .anim-kenburns {
+    animation: fg-kenburns 16s ease-in-out infinite alternate;
+  }
+  .anim-scan {
+    animation: fg-scan 3.4s ease-in-out infinite;
+  }
+  .anim-fade-up {
+    animation: fg-fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .anim-float,
+  .anim-float-2,
+  .anim-kenburns,
+  .anim-scan,
+  .anim-fade-up {
+    animation: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
