@@ -1,0 +1,382 @@
+{
+  "site": {
+    "name": "FairGuide",
+    "tagline": "Experience Uzbekistan through its people.",
+    "logoText": "FairGuide",
+    "logoImage": "",
+    "contactEmail": "hello@fairguide.uz",
+    "phone": "+998 71 200 40 40",
+    "address": "Tashkent, Uzbekistan",
+    "instagram": "https://instagram.com/fairguide.uz",
+    "telegram": "https://t.me/fairguide_uz",
+    "facebook": "https://facebook.com/fairguide.uz",
+    "youtube": "https://youtube.com/@fairguideuz",
+    "footerDesc": "A community-powered tourism platform connecting international visitors with trusted guides, translators, students and families across Uzbekistan.",
+    "ogDescription": "Find verified local guides, scan fair reference prices, and experience Uzbekistan through the people who call it home."
+  },
+  "nav": {
+    "home": "Home",
+    "how": "How It Works",
+    "tourists": "For Tourists",
+    "guides": "For Guides",
+    "volunteer": "Volunteer",
+    "host": "Host",
+    "about": "About Us",
+    "getStarted": "Get Started",
+    "explore": "Explore Uzbekistan"
+  },
+  "hero": {
+    "badge": "Community-powered travel · Uzbekistan",
+    "heading": "Experience Uzbekistan through its people.",
+    "sub": "Find trusted local guides, discover authentic experiences, and travel with confidence — all in one place.",
+    "ctaPrimary": "Explore Uzbekistan",
+    "ctaSecondary": "Become a Guide",
+    "trustLine": "Verified local guides · Transparent pricing · 5 languages",
+    "image": "/images/hero.jpg",
+    "imageAlt": "A smiling international tourist walking and laughing with a local Uzbek guide on a historic street in Samarkand",
+    "float1Title": "Verified local guide",
+    "float1Text": "Jasur · Samarkand · 4.9 ★",
+    "float2Title": "Fair price check",
+    "float2Text": "Ceramic vase · 10,000 UZS",
+    "float2Badge": "Reference price"
+  },
+  "trustBand": {
+    "text": "Travel should be about discovering a place — not worrying about whether you can trust the person helping you.",
+    "valuesLabel": "What we stand for",
+    "v1": "Trust",
+    "v2": "Fairness",
+    "v3": "Connection"
+  },
+  "fairer": {
+    "eyebrow": "Introducing FairGuide",
+    "heading": "A fairer way to experience Uzbekistan.",
+    "sub": "FairGuide connects international visitors with trusted local people — and helps you navigate language, services and prices with clarity.",
+    "pillars": [
+      { "title": "Trusted People", "desc": "Connect with verified local guides and translators whose profiles, reviews and experience you can check before you book." },
+      { "title": "Transparent Travel", "desc": "Use FairGuide's technology to better understand local prices and avoid unnecessary confusion." },
+      { "title": "Real Connections", "desc": "Experience Uzbekistan through local people, students and families — not just sights." }
+    ]
+  },
+  "problem": {
+    "eyebrow": "The problem we solve",
+    "heading": "Traveling somewhere new should feel exciting — not uncertain.",
+    "lede": "In a new country, small things become bigger. If you don't speak Uzbek or Russian, everyday decisions quietly rely on someone else.",
+    "p1": "When you shop at a bazaar or order in a teahouse, a translator or guide becomes your voice. But if you don't know local market prices, you can't check whether the number you're quoted matches what locals pay. That creates an information imbalance — and it doesn't take much for a 10,000 UZS item to start sounding like 20,000 UZS.",
+    "p2": "FairGuide is designed to close that gap: verified people you can check in advance, and reference price information that helps you make better-informed decisions.",
+    "nuance": "We're not suggesting that guides or businesses cheat travelers. Prices naturally vary by store, location and season. FairGuide simply provides reference information where reliable data exists — so decisions are informed, not assumed.",
+    "nuanceLabel": "A note on fairness",
+    "image": "/images/problem.jpg",
+    "imageAlt": "A tourist and a local translator at a bazaar stall in Uzbekistan, looking at a handmade product and its price",
+    "exActualLabel": "Actual / reference price",
+    "exActual": "10,000 UZS",
+    "exPresentedLabel": "Price presented to tourist",
+    "exPresented": "20,000 UZS",
+    "exDiffLabel": "Difference",
+    "exDiff": "+10,000 UZS"
+  },
+  "guides": {
+    "eyebrow": "Verified local guides & translators",
+    "heading": "Meet your trusted local guide.",
+    "sub": "Browse guides and translators by language, location, experience, rating, availability and verification — before you ever meet them.",
+    "cards": [
+      {
+        "name": "Jasur Karimov",
+        "languages": "EN · RU · UZ",
+        "location": "Samarkand",
+        "rating": "4.9",
+        "experience": "8+ years",
+        "verified": "Verified guide",
+        "priceFrom": "from 600,000 UZS / day",
+        "image": "/images/guide-1.jpg",
+        "imageAlt": "Portrait of Jasur Karimov, a local guide in Samarkand"
+      },
+      {
+        "name": "Madina Rahimova",
+        "languages": "EN · TR · UZ",
+        "location": "Tashkent",
+        "rating": "5.0",
+        "experience": "5 years",
+        "verified": "Verified translator",
+        "priceFrom": "from 500,000 UZS / day",
+        "image": "/images/guide-2.jpg",
+        "imageAlt": "Portrait of Madina Rahimova, a translator and city guide in Tashkent"
+      },
+      {
+        "name": "Bobur Alimov",
+        "languages": "RU · EN · UZ",
+        "location": "Bukhara",
+        "rating": "4.8",
+        "experience": "20+ years",
+        "verified": "Verified guide",
+        "priceFrom": "from 700,000 UZS / day",
+        "image": "/images/guide-3.jpg",
+        "imageAlt": "Portrait of Bobur Alimov, a senior guide in Bukhara"
+      }
+    ],
+    "cta": "Find a Guide"
+  },
+  "scanner": {
+    "eyebrow": "FairGuide Price Scanner",
+    "heading": "Know the price before you pay.",
+    "sub": "FairGuide helps tourists compare available product information and reference prices, giving them more confidence when shopping in Uzbekistan.",
+    "bullets": [
+      "Scan a barcode, a product or a price tag",
+      "Compare against available reference prices",
+      "Get a clear transparency indicator in seconds"
+    ],
+    "phone": {
+      "title": "Price Scanner",
+      "tab1": "Barcode",
+      "tab2": "Product",
+      "tab3": "Price tag",
+      "tab4": "Photo",
+      "productName": "Local ceramic vase",
+      "refLabel": "Reference price",
+      "refPrice": "10,000 UZS",
+      "repLabel": "Reported price",
+      "repPrice": "20,000 UZS",
+      "diffLabel": "Difference",
+      "diffValue": "+10,000 UZS",
+      "indicator": "Higher than available reference price",
+      "note": "Compare before you pay"
+    },
+    "disclaimer": "Reference prices may vary by store, location, and time. FairGuide does not determine whether a seller is fraudulent solely from a price difference.",
+    "cta": "Learn About Price Scanner"
+  },
+  "volunteer": {
+    "badge": "Planned feature",
+    "heading": "Turn your language skills into real-world experience.",
+    "sub": "FairGuide is planning a volunteer program for Uzbek students and young people who want to help international tourists as volunteer translators and local assistants.",
+    "points": [
+      "Tourists do not pay to book a volunteer",
+      "After the experience, guests may leave a voluntary tip",
+      "Volunteers build a verified record of completed sessions"
+    ],
+    "steps": [
+      "Volunteer",
+      "Help International Tourists",
+      "Gain International Experience",
+      "Build Your Portfolio",
+      "Receive Certificates"
+    ],
+    "milestoneTitle": "10+ verified volunteer translation sessions",
+    "milestoneDesc": "can make a volunteer eligible for a recommendation-letter pathway through FairGuide's planned cooperation with Uzbekistan's Ministry of Tourism.",
+    "ministryLabel": "Planned Ministry Partnership",
+    "ministryNote": "This partnership and its verification workflow are being developed and are not yet active.",
+    "cta": "Join the Future Volunteer Program",
+    "image": "/images/volunteer.jpg",
+    "imageAlt": "A young Uzbek student volunteer showing her phone to a foreign tourist in front of a tiled madrasa in Samarkand"
+  },
+  "host": {
+    "badge": "Planned feature",
+    "heading": "Stay with locals. Experience the real Uzbekistan.",
+    "sub": "FairGuide is planning a host program that lets Uzbek individuals and families welcome international tourists — on their own terms, at their own prices, in their own homes.",
+    "steps": [
+      { "num": "1", "title": "Tourist creates a trip request", "desc": "The tourist tells FairGuide where they want to go, when they're coming, how many days they'll stay and how many people are traveling." },
+      { "num": "2", "title": "Local hosts review requests", "desc": "Suitable Uzbek hosts and families can see relevant tourist requests that match their city and availability." },
+      { "num": "3", "title": "Host accepts", "desc": "If the host likes the request and the dates work, they can accept the tourist directly on FairGuide." },
+      { "num": "4", "title": "Host sets the price", "desc": "Each host family determines its own accommodation price — transparent, fair and under their control." }
+    ],
+    "example": {
+      "title": "Example trip request",
+      "rows": [
+        { "label": "Destination", "value": "Samarkand" },
+        { "label": "Duration", "value": "4 nights" },
+        { "label": "Guests", "value": "2 guests" },
+        { "label": "Host", "value": "Uzbek family" },
+        { "label": "Price", "value": "Set by host", "highlight": true }
+      ]
+    },
+    "cta": "Become a Host"
+  },
+  "platform": {
+    "heading": "One platform. Many ways to experience Uzbekistan.",
+    "sub": "FairGuide is being built as a complete ecosystem — for travelers, and for the people who welcome them.",
+    "more": "Explore",
+    "cards": [
+      { "tag": "Available", "title": "Find a Guide", "desc": "Trusted local guides and translators.", "link": "/for-tourists" },
+      { "tag": "Available", "title": "Scan & Check", "desc": "Use the price scanner to better understand available reference prices.", "link": "#scanner" },
+      { "tag": "Coming soon", "title": "Volunteer", "desc": "Future opportunity for Uzbek students to gain international experience.", "link": "/volunteer" },
+      { "tag": "Coming soon", "title": "Stay With Locals", "desc": "Future opportunity to experience Uzbekistan through Uzbek families.", "link": "/host" }
+    ]
+  },
+  "community": {
+    "eyebrow": "Uzbekistan",
+    "heading": "More than a destination. A community.",
+    "sub": "Streets, markets, tea, conversation — this is the Uzbekistan you can only meet through its people.",
+    "message": "We believe the best way to understand a country is through the people who call it home.",
+    "places": [
+      { "name": "Tashkent", "localName": "Toshkent", "caption": "Metro mosaics, fresh bread and the capital's lively new cafés.", "image": "" },
+      { "name": "Samarkand", "localName": "Samarqand", "caption": "Silk Road grandeur, and the conversations around every Registan chai khana.", "image": "" },
+      { "name": "Bukhara", "localName": "Buxoro", "caption": "Millennium-old courtyards where grandmothers still make the tea right.", "image": "" },
+      { "name": "Khiva", "localName": "Xiva", "caption": "Ichan Kala's quiet lanes, master crafts and unhurried mornings.", "image": "" },
+      { "name": "Shahrisabz", "localName": "Shahrisabz", "caption": "Tamerlane's hometown — farm roads and stories that go back centuries.", "image": "" },
+      { "name": "Fergana Valley", "localName": "Fargʻona vodiysi", "caption": "Orchards, bazaars and the friendliest tables in the country.", "image": "" }
+    ]
+  },
+  "how": {
+    "eyebrow": "Simple by design",
+    "heading": "How FairGuide works",
+    "sub": "Four steps between you and a trip that feels like home.",
+    "steps": [
+      { "num": "01", "title": "Create your trip", "desc": "Tell us where and when you are going." },
+      { "num": "02", "title": "Find your people", "desc": "Discover trusted guides, translators, volunteers, and future local hosts." },
+      { "num": "03", "title": "Connect", "desc": "Communicate directly and organize your experience." },
+      { "num": "04", "title": "Explore with confidence", "desc": "Experience Uzbekistan with more transparency and trust." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Good to know",
+    "heading": "Frequently asked questions",
+    "sub": "What travelers usually ask before they start.",
+    "items": [
+      { "q": "Is FairGuide a tour company?", "a": "No. FairGuide is a platform. It connects you with verified local guides, translators and — in the future — student volunteers and host families. You choose who you work with and what you book." },
+      { "q": "How does the price scanner work?", "a": "You scan a barcode, a product or a price tag. FairGuide compares the result with available reference prices from reliable data sources and shows a clear transparency indicator. It is reference information, not a judgment on any seller." },
+      { "q": "How are guides verified?", "a": "Guides and translators go through profile verification, identity checks and a review system. Ratings and feedback from real trips keep the ecosystem honest over time." },
+      { "q": "Is the volunteer program live?", "a": "The volunteer program is a planned feature. We are preparing the student partnership, certificates and verification workflow — the join form collects early interest." },
+      { "q": "Which languages are supported?", "a": "The platform is available in English, Uzbek, Russian, Turkish and Chinese — and it is built so more languages can be added easily." }
+    ]
+  },
+  "guideCta": {
+    "heading": "Are you a guide or translator?",
+    "sub": "FairGuide helps professional local guides and translators reach international tourists — while building trust through profiles, reviews, verification and transparent information.",
+    "bullets": [
+      "A professional profile with your languages, cities and rates",
+      "Verified badge and transparent reviews from real travelers",
+      "Direct communication with guests and fair, predictable income"
+    ],
+    "cta": "Become a Guide"
+  },
+  "students": {
+    "heading": "For ambitious Uzbek students.",
+    "sub": "Our future volunteer program gives students a real path from language skills to international experience.",
+    "list": [
+      "Meet international tourists",
+      "Practice foreign languages",
+      "Develop communication skills",
+      "Gain international experience",
+      "Build a verified volunteering portfolio",
+      "Receive certificates",
+      "Potentially qualify for recommendation opportunities after 10+ verified sessions"
+    ],
+    "cta": "Volunteer With FairGuide",
+    "certTitle": "Certificate of Volunteering",
+    "certName": "Verified translation sessions",
+    "certText": "Issued by FairGuide · Student volunteer program"
+  },
+  "trust": {
+    "eyebrow": "Trust & safety",
+    "heading": "Built around trust.",
+    "sub": "FairGuide is designed to build a trusted environment for both tourists and local users — with clear rules for everyone.",
+    "items": [
+      { "title": "Verified profiles", "desc": "Identity and document checks before anyone joins the platform." },
+      { "title": "Transparent reviews", "desc": "Real feedback from real trips, visible to everyone." },
+      { "title": "Secure communication", "desc": "Keep conversations inside FairGuide until you're ready to meet." },
+      { "title": "Reporting system", "desc": "Flag issues quickly — every report is reviewed by the community team." },
+      { "title": "Community standards", "desc": "Clear, published rules for guides, hosts, volunteers and travelers." },
+      { "title": "Future identity verification", "desc": "Deeper verification layers are on the roadmap as the ecosystem grows." }
+    ],
+    "note": "We don't claim to be 100% safe or fraud-proof. We design for transparency, accountability and fast response."
+  },
+  "vision": {
+    "eyebrow": "Our vision",
+    "heading": "Our vision",
+    "quote": "We want to make Uzbekistan one of the world's most welcoming and trusted destinations by connecting international visitors with the people who know the country best.",
+    "p1": "FairGuide is building a bridge between international tourism and Uzbekistan's local community.",
+    "p2": "Our long-term vision is a platform where tourism creates value not only for tourists and businesses, but also for students, families, guides and local communities.",
+    "image": "/images/about.jpg",
+    "imageAlt": "A diverse group of international travelers and local Uzbeks sharing tea in a courtyard"
+  },
+  "finalCta": {
+    "heading": "Your Uzbekistan story starts here.",
+    "sub": "Discover the country through the people who call it home.",
+    "primary": "Explore Uzbekistan",
+    "secondary": "Join FairGuide",
+    "image": "/images/cta-bg.jpg",
+    "imageAlt": "Sunset over the turquoise tiled minarets of Samarkand"
+  },
+  "footer": {
+    "platformTitle": "Platform",
+    "forYouTitle": "For You",
+    "contactTitle": "Contact",
+    "scanLink": "Price Scanner",
+    "touristsLink": "For Tourists",
+    "guidesLink": "For Guides",
+    "volunteerLink": "Volunteer",
+    "hostLink": "Host",
+    "aboutLink": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "© 2026 FairGuide. All rights reserved.",
+    "madeIn": "Made with care in Uzbekistan"
+  },
+  "form": {
+    "joinTitle": "Join FairGuide",
+    "joinSub": "Tell us how you'd like to be part of FairGuide — as a traveler, guide, volunteer or host.",
+    "guideTitle": "Apply as a guide or translator",
+    "guideSub": "Tell us a little about yourself and we'll review your profile.",
+    "volunteerTitle": "Join the future volunteer program",
+    "volunteerSub": "The volunteer program is opening soon. Leave your details and we'll be the first to let you know.",
+    "hostTitle": "Become a host",
+    "hostSub": "The host program is coming. Reserve your place as an early host.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "city": "City",
+    "message": "Anything else?",
+    "namePh": "Your name",
+    "emailPh": "you@example.com",
+    "phonePh": "+998 90 000 00 00",
+    "cityPh": "Tashkent, Samarkand…",
+    "messagePh": "Optional",
+    "submit": "Send request",
+    "sending": "Sending…",
+    "error": "Please fill in the required fields.",
+    "successTitle": "Thank you!",
+    "successText": "We've received your request. The FairGuide team will be in touch soon."
+  },
+  "pages": {
+    "howItWorks": {
+      "title": "How It Works",
+      "sub": "From your first idea to a trip you'll tell people about — here's the whole journey.",
+      "intro": "FairGuide works like a trusted local friend you can meet before you arrive. Every step is designed to reduce uncertainty: who you meet, what things cost, and how to communicate."
+    },
+    "forTourists": {
+      "title": "For Tourists",
+      "sub": "Everything you need to travel Uzbekistan with confidence.",
+      "intro": "Language, prices, and who to trust — we think about all of it, so you can focus on the journey."
+    },
+    "forGuides": {
+      "title": "For Guides",
+      "sub": "Reach international tourists who respect your profession.",
+      "intro": "FairGuide gives professional guides and translators a trusted, visible profile — and the tools to earn it."
+    },
+    "volunteer": {
+      "title": "Volunteer",
+      "sub": "Help travelers, build your international experience.",
+      "intro": "The volunteer program is in development. Be among the first students to be part of it."
+    },
+    "host": {
+      "title": "Host",
+      "sub": "Welcome international travelers into your home.",
+      "intro": "The host program is coming — set your own terms, your own price, your own story."
+    },
+    "about": {
+      "title": "About Us",
+      "sub": "A bridge between international tourism and Uzbekistan's communities.",
+      "intro": "FairGuide is a Tashkent-born travel-tech company building the trust layer of tourism in Uzbekistan.",
+      "valuesTitle": "Our core values",
+      "values": ["Fairness", "Trust", "Transparency", "Community", "Opportunity"]
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last updated: January 2026",
+      "body": "FairGuide respects your privacy. We collect only the information needed to provide the service: account details, communication content, and trip information.\n\nWe never sell personal data. Reference price data is aggregated and anonymized before it is used. You can request access, correction or deletion of your data at any time by writing to privacy@fairguide.uz.\n\nThis is a preliminary policy for the public website. Detailed descriptions of data processing will be published before the full platform launch."
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "updated": "Last updated: January 2026",
+      "body": "By using the FairGuide website you agree to use it lawfully and in good faith.\n\nContent on this site, including reference prices, is provided for informational purposes only. It is not a guarantee of any transaction and is not a statement about any specific seller.\n\nFeatures marked as \"planned\" or \"coming soon\" are not yet available. We may update these terms from time to time; continued use of the site constitutes acceptance of the updated terms.\n\nFor questions about these terms, write to legal@fairguide.uz."
+    }
+  }
+}
